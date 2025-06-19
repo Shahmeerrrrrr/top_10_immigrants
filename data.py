@@ -36,7 +36,7 @@ for index, (country, value) in enumerate(zip(countries, immigrants)):
 
 plt.xlim(left=-2.5)  
 
-# Customization
+
 plt.title("Immigrants' top countries of origin in the United States", 
           fontsize=20, color="black", fontweight='light', 
           fontname="Times New Roman", loc="left", pad=20)
@@ -51,5 +51,4 @@ ax.spines['bottom'].set_visible(False)
 
 plt.tight_layout()
 
-# Show plot
 plt.show()
