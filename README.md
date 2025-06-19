@@ -47,9 +47,4 @@ The script generates a horizontal bar chart showcasing the top immigration count
 - **Seaborn**
 - **Excel (for initial data preparation)**
 
-## 🤝 Contributing
-Feel free to submit pull requests or report issues!
-
-## 📬 Contact
-For questions, reach out via GitHub Issues or email at shahmeerraheel786@gmail.com
 
